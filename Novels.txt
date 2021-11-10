@@ -84,7 +84,7 @@
 85. 2001: A Space Odyssey - Arthur C. Clarke - Apr 14
 86. Gravity's Rainbow - Thomas Pynchon - Aug 14
 87. The Chronicles of Prydain - Lloyd Alexander - Sep 14
-88. The Dispossessed - Ursula K. Le Gui - Oct 14
+88. The Dispossessed - Ursula K. Le Guin - Oct 14
 89. Rites of Passage - William Golding - Feb 15
 90. Anna Karenina - Leo Tolstoy - Mar 15
 91. The Hamlet - William Faulkner - Apr 15
@@ -96,9 +96,16 @@
 97. The Prince of Nothing Trilogy - R. Scott Bakker - Aug 16
 98. A Game of Thrones - George R.R. Martin - Circa 2012?
 99. The Hitchhikers Guide to the Galaxy - Douglass Adams - May 17
-100. The Aspect-Emperor Trilogy - R. Scott Bakker - Sep 17
+100. The Aspect-Emperor Quadrology - R. Scott Bakker - Sep 17
 101. The Making of the Atomic Bomb - Richard Rhodes  early 2020?
 102. The Three Body Problem - Cixin Liu - Oct 20
 103. The Fifth Season - N.K. Jemisin - Nov 20
 104. The Golden Bowl - Henry James - 2019?
-105. Pump Six And Other Stories - Paolo Bacigalupi
+105. Pump Six And Other Stories - Paolo Bacigalupi - 2021
+106. The Three-Body Problem - Liu Cixin - 2021
+107. The Fifth Season - N.K. Jemisin - 2021
+108. The Water Knife - Paolo Bacigalupi - 2021
+109. Rocannon's World - Ursula K. Le Guin - 2021
+110. Planet of Exile - Ursula K. Le Guin - 2021
+111. City of Illusions - Ursula K. Le Guin - 2021
+
